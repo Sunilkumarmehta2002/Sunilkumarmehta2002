@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sunil Kumar Mehta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h5 align="center"> I'm a dedicated and passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. With extensive experience in SQL and MongoDB, I bring a versatile skill set to any development project, ensuring seamless integration and functionality across the stack.
+Skills & Expertise:
+> Front-End Development: HTML, CSS, JavaScript, React, Angular
+> Back-End Development: Node.js, Express.js, Django, Flask
+> Database Management: SQL, MongoDB, PostgreSQL
+> Programming Languages: Python, Java, C++
+> Basics of DevOps & Cloud: Docker, Kubernetes, AWS, CI/CD</h5>
+ <img align="right" height="150" src="https://i.ibb.co/YRwv4Z9/SUNIL.png"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilkumarmehta2002&label=Profile%20views&color=0e75b6&style=flat" alt="sunilkumarmehta2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilkumarmehta2002" alt="sunilkumarmehta2002" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
