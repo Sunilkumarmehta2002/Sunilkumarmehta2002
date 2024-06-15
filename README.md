@@ -22,7 +22,7 @@ Skills & Expertise:
 > Database Management: SQL, MongoDB, PostgreSQL
 > Programming Languages: Python, Java, C++
 > Basics of DevOps & Cloud: Docker, Kubernetes, AWS, CI/CD</h5>
- <img align="right" height="150" src="https://i.ibb.co/YRwv4Z9/SUNIL.png"  />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilkumarmehta2002&label=Profile%20views&color=0e75b6&style=flat" alt="sunilkumarmehta2002" /> </p>
 
