@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sunil Kumar Mehta</h1>
+<h1 align="center">Hi 👋 , I'm Sunil Kumar Mehta</h1>
 <h5 align="center"> I'm a dedicated and passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. With extensive experience in SQL and MongoDB, I bring a versatile skill set to any development project, ensuring seamless integration and functionality across the stack.
 Skills & Expertise ::
 > Front-End Development: HTML, CSS, JavaScript, React, Angular
